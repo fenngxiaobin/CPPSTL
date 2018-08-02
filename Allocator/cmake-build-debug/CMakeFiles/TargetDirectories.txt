@@ -1,3 +1,0 @@
-/home/fengxb/CLionProjects/STL/Allocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/fengxb/CLionProjects/STL/Allocator/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/fengxb/CLionProjects/STL/Allocator/cmake-build-debug/CMakeFiles/Allocator.dir
