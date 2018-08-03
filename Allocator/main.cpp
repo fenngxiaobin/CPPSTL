@@ -42,6 +42,8 @@ int main() {
         cout<<"find error"<<endl;
     }
 
-    auto_ptr
+    auto_ptr<string> ps(new string("jj"));
+    cout<<*ps<<endl;
+    
     return 0;
 }
